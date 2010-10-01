@@ -1,0 +1,7 @@
+May.5
+1.修改 judge.who_is_next, 使其满足 8球 规则, 并使用 dialog 判断谁赢
+2.修改 set_aside, 使其根据花色, 摆放落袋的球
+3.添加 frame. JSlider slider ,调节击球速度
+4.添加 MouseWheelEventDemo, 响应鼠标滚轮
+5.添加 ball.get_disappear_time(), 防止小球该进的不进
+6.initial.java 增加 reset 功能, 并在 run() 和 frame.java 里面添加 stop thread 的方法 
